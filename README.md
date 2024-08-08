@@ -6,12 +6,13 @@ This pipeline is the part of bioengineering and bioinformatics faculty coursewor
 
 ## Before you start
 
-The pipeline is available only for <i>Linux</i> users </br>
 Make sure that you have installed all components:
 <ul>
 <li>Python 3.6 or upper https://www.python.org/
 <li>Biopython 1.70 or upper http://biopython.org/
 <li>R and R-Studio with basic packages https://www.rstudio.com/
+<li>snp-sites https://sanger-pathogens.github.io/snp-sites/
+<li>vcftools https://github.com/vcftools/vcftools
 </ul>
 
 
